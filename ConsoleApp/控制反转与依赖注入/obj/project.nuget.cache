@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYIPFPJibIjLuw64x4Kvuy3AT9aFQFZF01jfc/HfEc+NL27/QVwJpWjLT2MhCiO6d1IunnTnnW/h6jt0U1RqxA==",
+  "success": true,
+  "projectFilePath": "D:\\MyCodes\\csharp\\ConsoleApp\\控制反转与依赖注入\\控制反转与依赖注入.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gongdh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\gongdh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

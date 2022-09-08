@@ -1,61 +1,51 @@
 ﻿using System;
-
+using Microsoft.Extensions.DependencyInjection;
 namespace ConsoleApp
 {
-
-    public class Person 
+    interface IUsb
     {
-        private int age = 18;
-        public int Age { get => age; set => age = value; }
-
-        public void SayHello()
+        public void Process();
+    }
+    public class Upan : IUsb
+    {
+        public Upan()
         {
-            Console.WriteLine($"我{age}岁了。");
+            Console.WriteLine("Upan 被创建了");
+        }
+
+        public void Process()
+        {
+            Console.WriteLine("Process");
         }
     }
-    public class Student : Person 
+    interface ITypeC
     {
-        public int age = 10;
-        public new void SayHello()
+        public void TypeCKey();
+    }
+    public class ComputerDisplay : ITypeC
+    {
+        public ComputerDisplay()
         {
-            Console.WriteLine($"我{age}岁了。");
+            Console.WriteLine("ComputerDisplay 被创建了");
+        }
+        public void TypeCKey()
+        {
+            Console.WriteLine("TypeCKey");
         }
     }
-
     class Program
     {
         static void Main(string[] args)
         {
-            Student s = new Student();
-            s.SayHello();//我10岁了
-            Console.WriteLine(s.age.ToString());//10
-            Person p = s;
-            p.SayHello();//我18岁了
-            p.Age = 50;
-            p.SayHello();//我18岁了
-            s.SayHello();//我10岁了
-            Console.WriteLine();
+            //配置ICO
+            ServiceCollection services = new ServiceCollection();
+            services.AddScoped<IUsb, Upan>();
+            services.AddScoped<ITypeC, ComputerDisplay>();
+            //从IOC提取服务
+            IServiceProvider serviceProvider = services.BuildServiceProvider();
+            var upanProcess = serviceProvider.GetService<IUsb>();
+            Console.Read();
         }
     }
-    static class ToolsHelper
-    {
-        //静态类只包含静态成员
-        //private string name = "rickey.gong";
 
-        //不能包含实例构造函数
-        //public void ToolsHelper()
-        //{
-        //}
-
-        //可以包含静态构造函数
-        static ToolsHelper()
-        {
-            Console.WriteLine("静态类 -- 静态构造方法");
-        }
-
-        internal static void SayHello()
-        {
-            Console.WriteLine("静态类 -- SayHello方法");
-        }
-    }
 }

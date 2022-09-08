@@ -1,15 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32413.511
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{BBB0CD43-436D-49C3-9242-00B0FEA6480C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{BBB0CD43-436D-49C3-9242-00B0FEA6480C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E91A4F34-2D0C-46DD-B76C-D3CB760F6558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E91A4F34-2D0C-46DD-B76C-D3CB760F6558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDemo", "InterfaceDemo\InterfaceDemo.csproj", "{4F071C71-8DFD-468C-9EC2-67A2DDE63BC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceDemo", "InterfaceDemo\InterfaceDemo.csproj", "{4F071C71-8DFD-468C-9EC2-67A2DDE63BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDemo.UnitTests", "InterfaceDemo.UnitTests\InterfaceDemo.UnitTests.csproj", "{D420B05A-BFCA-45A1-8616-E66556C39798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceDemo.UnitTests", "InterfaceDemo.UnitTests\InterfaceDemo.UnitTests.csproj", "{D420B05A-BFCA-45A1-8616-E66556C39798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "控制反转与依赖注入", "控制反转与依赖注入\控制反转与依赖注入.csproj", "{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D420B05A-BFCA-45A1-8616-E66556C39798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D420B05A-BFCA-45A1-8616-E66556C39798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D420B05A-BFCA-45A1-8616-E66556C39798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

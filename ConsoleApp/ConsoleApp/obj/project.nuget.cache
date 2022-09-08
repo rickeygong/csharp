@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "c5VLoXIXBBzYzjgQ61fVbcCuqBrr/WBmIW5TBfbvnckoctD7KColAZhjIBl+aoM/x1+YaW19z2GEjD5Qa6Mq2w==",
+  "dgSpecHash": "NkZJqwoW4rU3Ob22Drm3gWmb2amr26qYm0s3OIvz59D7n+QDRI/6SI2ThsGTkPNO1vALUG/X6RuyjFJAHM9VpA==",
   "success": true,
   "projectFilePath": "D:\\MyCodes\\csharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gongdh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\gongdh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
