@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceDemo", "InterfaceD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceDemo.UnitTests", "InterfaceDemo.UnitTests\InterfaceDemo.UnitTests.csproj", "{D420B05A-BFCA-45A1-8616-E66556C39798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "控制反转与依赖注入", "控制反转与依赖注入\控制反转与依赖注入.csproj", "{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "控制反转与依赖注入", "控制反转与依赖注入\控制反转与依赖注入.csproj", "{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多重继承vs多重实现", "多重继承vs多重实现\多重继承vs多重实现.csproj", "{DC74B3D5-0152-47C2-8993-BE0B9E7AA5CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口与多态", "接口与多态\接口与多态.csproj", "{38FAEB89-D65B-4493-B824-F4D9DDA851CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAEBE8C7-07D0-4A72-B06C-8AD2B228796C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC74B3D5-0152-47C2-8993-BE0B9E7AA5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC74B3D5-0152-47C2-8993-BE0B9E7AA5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC74B3D5-0152-47C2-8993-BE0B9E7AA5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC74B3D5-0152-47C2-8993-BE0B9E7AA5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FAEB89-D65B-4493-B824-F4D9DDA851CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FAEB89-D65B-4493-B824-F4D9DDA851CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FAEB89-D65B-4493-B824-F4D9DDA851CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FAEB89-D65B-4493-B824-F4D9DDA851CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

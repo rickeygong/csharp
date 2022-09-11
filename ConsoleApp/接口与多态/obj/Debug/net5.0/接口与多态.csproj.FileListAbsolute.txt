@@ -1,0 +1,16 @@
+D:\MyCodes\csharp\ConsoleApp\接口与多态\bin\Debug\net5.0\接口与多态.exe
+D:\MyCodes\csharp\ConsoleApp\接口与多态\bin\Debug\net5.0\接口与多态.deps.json
+D:\MyCodes\csharp\ConsoleApp\接口与多态\bin\Debug\net5.0\接口与多态.runtimeconfig.json
+D:\MyCodes\csharp\ConsoleApp\接口与多态\bin\Debug\net5.0\接口与多态.runtimeconfig.dev.json
+D:\MyCodes\csharp\ConsoleApp\接口与多态\bin\Debug\net5.0\接口与多态.dll
+D:\MyCodes\csharp\ConsoleApp\接口与多态\bin\Debug\net5.0\接口与多态.pdb
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.AssemblyInfoInputs.cache
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.AssemblyInfo.cs
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.csproj.CoreCompileInputs.cache
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.dll
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\refint\接口与多态.dll
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.pdb
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\接口与多态.genruntimeconfig.cache
+D:\MyCodes\csharp\ConsoleApp\接口与多态\obj\Debug\net5.0\ref\接口与多态.dll
