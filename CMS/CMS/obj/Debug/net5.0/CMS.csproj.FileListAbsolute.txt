@@ -3,7 +3,6 @@ D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\CMS.deps.json
 D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\CMS.runtimeconfig.json
 D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\CMS.runtimeconfig.dev.json
 D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\CMS.dll
-D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\ref\CMS.dll
 D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\CMS.pdb
 D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\CMS.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\CMS.AssemblyInfoInputs.cache
@@ -14,3 +13,7 @@ D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\ref\CMS.dll
 D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\CMS.pdb
 D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\CMS.genruntimeconfig.cache
 D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\CMS.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyCodes\csharp\CMS\CMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\CMS.csproj.CopyComplete
+D:\MyCodes\csharp\CMS\CMS\obj\Debug\net5.0\refint\CMS.dll

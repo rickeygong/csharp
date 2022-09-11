@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "X/AiujOehWD8zqJCX5JjQ+KQT/nYVfnTptmEj/HkdGKLgmr7KWarsfs6YfJjMf2Jp9NgznAIpD6GNMJRVbOrBw==",
+  "dgSpecHash": "dSaqZnIN6gKdnmg/5XS1HNty5hgHDMZEYh7M2ayk8AssyL+xlKvU3l+ir11aMxx8VX+YeyDqboT9lmGT2KR0mg==",
   "success": true,
   "projectFilePath": "D:\\MyCodes\\csharp\\CMS\\CMS\\CMS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gongdh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\gongdh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
