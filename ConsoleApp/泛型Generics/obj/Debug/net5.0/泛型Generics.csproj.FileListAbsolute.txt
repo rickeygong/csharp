@@ -1,0 +1,16 @@
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\bin\Debug\net5.0\泛型Generics.exe
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\bin\Debug\net5.0\泛型Generics.deps.json
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\bin\Debug\net5.0\泛型Generics.runtimeconfig.json
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\bin\Debug\net5.0\泛型Generics.runtimeconfig.dev.json
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\bin\Debug\net5.0\泛型Generics.dll
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\bin\Debug\net5.0\泛型Generics.pdb
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.AssemblyInfoInputs.cache
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.AssemblyInfo.cs
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.csproj.CoreCompileInputs.cache
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.dll
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\refint\泛型Generics.dll
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.pdb
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\泛型Generics.genruntimeconfig.cache
+D:\MyCodes\csharp\ConsoleApp\泛型Generics\obj\Debug\net5.0\ref\泛型Generics.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "结构体Sructs/1.0.0": {
+        "runtime": {
+          "结构体Sructs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "结构体Sructs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

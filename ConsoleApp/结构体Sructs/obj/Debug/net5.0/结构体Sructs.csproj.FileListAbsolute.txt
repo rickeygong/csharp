@@ -1,0 +1,16 @@
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\bin\Debug\net5.0\结构体Sructs.exe
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\bin\Debug\net5.0\结构体Sructs.deps.json
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\bin\Debug\net5.0\结构体Sructs.runtimeconfig.json
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\bin\Debug\net5.0\结构体Sructs.runtimeconfig.dev.json
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\bin\Debug\net5.0\结构体Sructs.dll
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\bin\Debug\net5.0\结构体Sructs.pdb
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.AssemblyInfoInputs.cache
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.AssemblyInfo.cs
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.csproj.CoreCompileInputs.cache
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.dll
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\refint\结构体Sructs.dll
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.pdb
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\结构体Sructs.genruntimeconfig.cache
+D:\MyCodes\csharp\ConsoleApp\结构体Sructs\obj\Debug\net5.0\ref\结构体Sructs.dll
