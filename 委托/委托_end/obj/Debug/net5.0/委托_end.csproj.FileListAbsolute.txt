@@ -1,0 +1,16 @@
+D:\MyCodes\csharp\委托\委托_end\bin\Debug\net5.0\委托_end.exe
+D:\MyCodes\csharp\委托\委托_end\bin\Debug\net5.0\委托_end.deps.json
+D:\MyCodes\csharp\委托\委托_end\bin\Debug\net5.0\委托_end.runtimeconfig.json
+D:\MyCodes\csharp\委托\委托_end\bin\Debug\net5.0\委托_end.runtimeconfig.dev.json
+D:\MyCodes\csharp\委托\委托_end\bin\Debug\net5.0\委托_end.dll
+D:\MyCodes\csharp\委托\委托_end\bin\Debug\net5.0\委托_end.pdb
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.AssemblyInfoInputs.cache
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.AssemblyInfo.cs
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.csproj.CoreCompileInputs.cache
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.dll
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\refint\委托_end.dll
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.pdb
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\委托_end.genruntimeconfig.cache
+D:\MyCodes\csharp\委托\委托_end\obj\Debug\net5.0\ref\委托_end.dll
