@@ -1,0 +1,16 @@
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\bin\Debug\net5.0\字段式事件声明.exe
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\bin\Debug\net5.0\字段式事件声明.deps.json
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\bin\Debug\net5.0\字段式事件声明.runtimeconfig.json
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\bin\Debug\net5.0\字段式事件声明.runtimeconfig.dev.json
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\bin\Debug\net5.0\字段式事件声明.dll
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\bin\Debug\net5.0\字段式事件声明.pdb
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.AssemblyInfoInputs.cache
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.AssemblyInfo.cs
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.csproj.CoreCompileInputs.cache
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.dll
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\refint\字段式事件声明.dll
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.pdb
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\字段式事件声明.genruntimeconfig.cache
+D:\MyCodes\csharp\字段式事件声明\字段式事件声明\obj\Debug\net5.0\ref\字段式事件声明.dll
