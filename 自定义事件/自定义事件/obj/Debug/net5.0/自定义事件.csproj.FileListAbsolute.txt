@@ -1,0 +1,16 @@
+D:\MyCodes\csharp\自定义事件\自定义事件\bin\Debug\net5.0\自定义事件.exe
+D:\MyCodes\csharp\自定义事件\自定义事件\bin\Debug\net5.0\自定义事件.deps.json
+D:\MyCodes\csharp\自定义事件\自定义事件\bin\Debug\net5.0\自定义事件.runtimeconfig.json
+D:\MyCodes\csharp\自定义事件\自定义事件\bin\Debug\net5.0\自定义事件.runtimeconfig.dev.json
+D:\MyCodes\csharp\自定义事件\自定义事件\bin\Debug\net5.0\自定义事件.dll
+D:\MyCodes\csharp\自定义事件\自定义事件\bin\Debug\net5.0\自定义事件.pdb
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.AssemblyInfoInputs.cache
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.AssemblyInfo.cs
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.csproj.CoreCompileInputs.cache
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.dll
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\refint\自定义事件.dll
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.pdb
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\自定义事件.genruntimeconfig.cache
+D:\MyCodes\csharp\自定义事件\自定义事件\obj\Debug\net5.0\ref\自定义事件.dll
