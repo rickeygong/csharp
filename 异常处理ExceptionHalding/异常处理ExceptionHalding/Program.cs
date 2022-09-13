@@ -21,9 +21,15 @@ namespace 异常处理ExceptionHalding
         {
             var calculator = new Calculator();
             var result1 = calculator.Devide(5.0, 0.0);
-            var result2 = calculator.Devide(2, 0);
-            Console.WriteLine(result1);
-            Console.WriteLine(result2);
+            if (result1 == double.PositiveInfinity)
+            {
+                Console.WriteLine("result1 == double.NaN");
+            }
+            //Console.WriteLine(result1);
+
+            //var result2 = calculator.Devide(2, 0);
+            //Console.WriteLine(result2);
+            
             //try
             //{
             //    var calculator = new Calculator();

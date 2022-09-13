@@ -1,0 +1,12 @@
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\refint\ExtensionMethods.dll
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
+D:\MyCodes\csharp\扩展方法\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll

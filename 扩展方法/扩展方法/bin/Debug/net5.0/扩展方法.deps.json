@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "扩展方法/1.0.0": {
+        "dependencies": {
+          "ExtensionMethods": "1.0.0"
+        },
+        "runtime": {
+          "扩展方法.dll": {}
+        }
+      },
+      "ExtensionMethods/1.0.0": {
+        "runtime": {
+          "ExtensionMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "扩展方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
