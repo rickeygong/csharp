@@ -6,13 +6,29 @@
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <!--<Button x:Name="mybtn" Content="请点击我" HorizontalAlignment="Left" Margin="275,179,0,0" VerticalAlignment="Top"/>-->
-        <d:Button Margin="350,167,350,218">
-            <Button.Content>点击我</Button.Content>
-            <Button.Height>50</Button.Height>
-            <Button.Width>100</Button.Width>
-        </d:Button>
+    <!--<StackPanel>
+        <TextBlock HorizontalAlignment="Center" Margin="20">Hello World</TextBlock>
+        <ListBox Height="100" Width="100" Margin="10">
+            <ListBoxItem Content="Item 1"></ListBoxItem>
+            <ListBoxItem Content="Item 2"></ListBoxItem>
+            <ListBoxItem Content="Item 3"></ListBoxItem>
+            <ListBoxItem Content="Item 4"></ListBoxItem>
+        </ListBox>
+        <Button Click="Button_Click" Height="30" Width="100">Click..me..</Button>
+    </StackPanel>-->
 
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" Grid.Column="0">Click me1</Button>
+        <Button Grid.Row="0" Grid.Column="1">Click me2</Button>
+        <Button Grid.Row="1" Grid.Column="0">Click me3</Button>
+        <Button Grid.Row="1" Grid.Column="1">Click me4</Button>
     </Grid>
 </Window>

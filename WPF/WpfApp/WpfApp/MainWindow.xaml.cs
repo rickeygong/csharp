@@ -23,13 +23,17 @@ namespace WpfApp
         public MainWindow()
         {
             InitializeComponent();
-            var grid = (Grid)this.Content;
-            Button btn = new Button();
-            btn.Height = 50;
-            btn.Width = 100;
-            Margin = new Thickness(0, 0, 700, 380);
-            btn.Content = "button...";
-            grid.Children.Add(btn);
+            //var grid = (Grid)this.Content;
+            //Button btn = new Button();
+            //btn.Height = 50;
+            //btn.Width = 100;
+            //Margin = new Thickness(0, 0, 700, 380);
+            //btn.Content = "button...";
+            //grid.Children.Add(btn);
+        }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("按钮被点击了!");
         }
     }
 }
